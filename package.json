@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-parkhub-ui",
+  "version": "0.1.0",
+  "description": "WebWaka parkhub suite - ui",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
